@@ -10,8 +10,9 @@ in CX / contact center solutions consulting keeps surfacing the same gap —
 fragmented vendor data, no unified real-time view, no proactive alerting. This
 is what solving that looks like with an agent instead of a static dashboard.
 
-![Signal dashboard screenshot](./docs/screenshot-dashboard.png)
-*(add a screenshot or short screen-recording GIF here — see "Getting a screenshot" below)*
+<img width="1153" height="878" alt="Screenshot 2026-07-25 at 21 55 06" src="https://github.com/user-attachments/assets/1a22de66-6bb7-4946-bff7-f36bb0eda9c8" />
+
+
 
 ---
 
