@@ -12,6 +12,7 @@ is what solving that looks like with an agent instead of a static dashboard.
 
 <img width="1153" height="878" alt="Screenshot 2026-07-25 at 21 55 06" src="https://github.com/user-attachments/assets/1a22de66-6bb7-4946-bff7-f36bb0eda9c8" />
 
+<img width="1153" height="878" alt="Screenshot 2026-07-25 at 21 56 14" src="https://github.com/user-attachments/assets/9b3b2742-b82f-4142-ad11-b515f3c5f8b9" />
 
 
 ---
