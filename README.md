@@ -91,7 +91,7 @@ that environment:
 
 ---
 
-Built by [Adity Rastogi](https://www.linkedin.com/) — Senior Solutions
+Built by [Adity Rastogi](https://www.linkedin.com/in/adityrastogi/) — Senior Solutions
 Consultant with a background in Genesys PureCloud, Amazon Connect, Salesforce
 integration, and enterprise CX analytics, currently building toward Solution
 Architecture and agentic AI.
